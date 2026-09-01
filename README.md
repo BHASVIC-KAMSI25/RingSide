@@ -164,7 +164,21 @@ All required game assets, including sprites, backgrounds, buttons, and audio fil
 
 ## Screenshots
 
-Screenshots of the finished game will be added here.
+### Home Screen
+
+![Ringside Home Screen](screenshots/homescreen.png)
+
+### Fight
+
+![Ringside Fight](screenshots/fight.png)
+
+### Loading Screen
+
+![Ringside Knockout](screenshots/Loading_screen.png)
+
+### Victory
+
+![Ringside Victory Screen](screenshots/Victory.png)
 
 ## Project Purpose
 
