@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=WinScreen
+comment1.params=playerName\ opponentName\ playerRoundsWon\ opponentRoundsWon\ resultType
+comment1.target=WinScreen(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FightIntroScreen
+comment1.params=playerName\ opponentName
+comment1.target=FightIntroScreen(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

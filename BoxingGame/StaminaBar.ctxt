@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StaminaBar
+comment1.params=
+comment1.target=StaminaBar()
+comment2.params=newValue
+comment2.target=void\ updateStamina(int)
+comment3.params=
+comment3.target=void\ updateImage()
+numComments=4
